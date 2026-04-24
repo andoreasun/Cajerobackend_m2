@@ -1,7 +1,6 @@
 package com.miplata.ui;
 
-import com.miplata.enums.RangoCuotas;
-import com.miplata.enums.TipoCuenta;
+import domain.RangoCuotas;
 import com.miplata.models.*;
 import com.miplata.services.BancoService;
 import com.miplata.utils.Consola;

@@ -1,8 +1,8 @@
 package com.miplata.models;
 
-import com.miplata.enums.RangoCuotas;
-import com.miplata.enums.TipoCuenta;
-import com.miplata.enums.TipoTransaccion;
+import domain.RangoCuotas;
+import domain.TipoCuenta;
+import domain.TipoTransaccion;
 
 
 public class TarjetaCredito extends Cuenta {

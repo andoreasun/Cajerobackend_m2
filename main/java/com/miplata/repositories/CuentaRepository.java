@@ -1,6 +1,6 @@
 package com.miplata.repositories;
 
-import com.miplata.enums.TipoCuenta;
+import domain.TipoCuenta;
 import com.miplata.models.*;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.miplata.enums;
+package domain;
 
 public enum RangoCuotas {
     SIN_INTERES(1, 2, 0.00, "≤ 2 cuotas — Sin interés (0%)"),

@@ -1,6 +1,6 @@
 package com.miplata;
 
-import com.miplata.enums.TipoCuenta;
+import domain.TipoCuenta;
 import com.miplata.services.BancoService;
 import com.miplata.ui.AuthUI;
 import com.miplata.ui.TransaccionesUI;

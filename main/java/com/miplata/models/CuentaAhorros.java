@@ -1,7 +1,7 @@
 package com.miplata.models;
 
-import com.miplata.enums.TipoCuenta;
-import com.miplata.enums.TipoTransaccion;
+import domain.TipoCuenta;
+import domain.TipoTransaccion;
 
 
 

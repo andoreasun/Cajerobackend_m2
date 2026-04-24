@@ -1,6 +1,6 @@
 package com.miplata.models;
 
-import com.miplata.enums.EstadoUsuario;
+import domain.EstadoUsuario;
 
 
 public class Cliente {

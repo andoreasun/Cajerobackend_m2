@@ -1,6 +1,6 @@
 package com.miplata.services;
 
-import com.miplata.enums.TipoCuenta;
+import domain.TipoCuenta;
 import com.miplata.models.*;
 import com.miplata.repositories.ClienteRepository;
 import com.miplata.repositories.CuentaRepository;

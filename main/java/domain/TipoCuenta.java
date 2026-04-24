@@ -1,4 +1,4 @@
-package com.miplata.enums;
+package domain;
 
 public enum TipoCuenta {
     AHORROS("Cuenta de Ahorros"),

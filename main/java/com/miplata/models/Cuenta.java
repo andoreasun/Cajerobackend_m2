@@ -1,8 +1,8 @@
 package com.miplata.models;
 
-import com.miplata.enums.EstadoCuenta;
-import com.miplata.enums.TipoCuenta;
-import com.miplata.enums.TipoTransaccion;
+import domain.EstadoCuenta;
+import domain.TipoCuenta;
+import domain.TipoTransaccion;
 
 import java.util.ArrayList;
 import java.util.Collections;

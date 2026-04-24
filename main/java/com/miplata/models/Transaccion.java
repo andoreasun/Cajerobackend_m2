@@ -1,6 +1,6 @@
 package com.miplata.models;
 
-import com.miplata.enums.TipoTransaccion;
+import domain.TipoTransaccion;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
