@@ -126,3 +126,4 @@ public abstract class Cuenta {
                 tipo.getDescripcion(), numeroCuenta, saldo, estado);
     }
 }
+// actualizacion de la clase cuenta
